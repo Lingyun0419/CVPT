@@ -20,9 +20,13 @@ $ROOT/data
 
 ## Environment settings
 conda create -n cvpt python=3.7
+
 conda activate cvpt
+
 conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 cudatoolkit=10.2 -c pytorch
+
 pip install timm==0.5.4
+
 pip install avalanche-lib==0.2.1
 
 ## Testing
