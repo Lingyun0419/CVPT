@@ -5,3 +5,5 @@ num: 5
 seed: 44
 wd: 0.00001
 batch_size: 64
+wd: 0.00001
+batch_size: 64

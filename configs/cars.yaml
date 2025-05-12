@@ -6,3 +6,8 @@ num: 100
 seed: 100
 wd: 0.05
 batch_size: 16
+lr: 0.002
+num: 100
+seed: 100
+wd: 0.05
+batch_size: 16
