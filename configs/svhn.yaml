@@ -1,5 +1,7 @@
 name: svhn
 class_num: 10
 lr: 0.01
-num: 10
-seed: 80
+num: 5
+seed: 800
+wd: 0.05
+batch_size: 32

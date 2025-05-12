@@ -1,3 +1,8 @@
 name: "OxfordFlowers"
 class_num: 102
 path: "./data/OxfordFlower"
+lr: 0.001
+num: 5
+seed: 42
+wd: 0.05
+batch_size: 16

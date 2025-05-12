@@ -1,5 +1,7 @@
 name: dtd
 class_num: 47
 lr: 0.001
-num: 20
+num: 10
 seed: 80
+wd: 0.05
+batch_size: 64

@@ -1,5 +1,7 @@
 name: caltech101
 class_num: 102
-lr: 0.01
-num: 5
-seed: 44
+lr: 0.001
+num: 200
+seed: 800
+wd: 0.05
+batch_size: 32

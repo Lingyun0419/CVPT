@@ -1,5 +1,7 @@
 name: resisc45
 class_num: 45
-lr: 0.01
-num: 5
+lr: 0.005
+num: 10
 seed: 800
+wd: 0.05
+batch_size: 16

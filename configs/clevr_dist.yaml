@@ -1,5 +1,7 @@
 name: clevr_dist
 class_num: 6
 lr: 0.001
-num: 5
-seed: 800
+num: 50
+seed: 80
+wd: 0.00001
+batch_size: 64

@@ -1,3 +1,8 @@
 name: "StanfordCars"
 class_num: 196
 path: "./data/Stanford-cars"
+lr: 0.002
+num: 100
+seed: 100
+wd: 0.05
+batch_size: 16

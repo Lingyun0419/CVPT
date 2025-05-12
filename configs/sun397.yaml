@@ -2,4 +2,6 @@ name: sun397
 class_num: 397
 lr: 0.002
 num: 10
-seed: 100
+seed: 80
+wd: 0.05
+batch_size: 16

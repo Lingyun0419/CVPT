@@ -1,5 +1,7 @@
 name: oxford_flowers102
 class_num: 102
 lr: 0.002
-num: 20
-seed: 80
+num: 5
+seed: 44
+wd: 0.05
+batch_size: 16

@@ -1,3 +1,8 @@
 name: "nabirds"
 class_num: 555
 path: "./data/nabirds"
+lr: 0.0002
+num: 200
+seed: 42
+wd: 0.00001
+batch_size: 16

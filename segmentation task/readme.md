@@ -2,4 +2,4 @@ To launch this task, you need to download mmsegmentation project first, whose we
 
 Then:
 
-./tools/dist_train.sh config.py 8
+bash ./tools/dist_train.sh config.py 8

@@ -1,5 +1,7 @@
 name: diabetic_retinopathy
 class_num: 5
-lr: 0.002
+lr: 0.005
 num: 5
 seed: 42
+wd: 0.00001
+batch_size: 32

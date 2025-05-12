@@ -1,5 +1,7 @@
 name: kitti
 class_num: 4
-lr: 0.002
+lr: 0.005
 num: 20
 seed: 44
+wd: 0.05
+batch_size: 16

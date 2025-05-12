@@ -1,5 +1,7 @@
 name: smallnorb_ele
 class_num: 9
 lr: 0.001
-num: 10
-seed: 42
+num: 50
+seed: 44
+wd: 0.05
+batch_size: 32
