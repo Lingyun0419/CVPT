@@ -35,4 +35,4 @@ bash scripts/test_all.sh
 ## Noting
 Influenced by the dataset, the best result of CIFAR we reported is run under the [VPT](https://github.com/KMnP/vpt) project.
 
-The comparative experiments with VPT in the paper are carried out under this project.
+The comparative experiments with VPT in the paper are carried out under our project.
